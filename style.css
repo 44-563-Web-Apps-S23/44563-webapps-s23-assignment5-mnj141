@@ -1,0 +1,48 @@
+h1{
+    margin: 5px;
+}
+p{
+    margin: 5px 25px;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+.img-thumbnail{
+    border: 1px solid #c9dee6;
+    margin-top: 10px;
+    width: 500px;
+    height: 500px;
+}
+table{
+    margin-top:10px;
+}
+th:hover{
+    background-color: rgb(88, 119, 161);
+}
+th{
+    border: 1px solid #705b07;
+}
+td:hover{
+    color: white;
+    background-color: rgb(77, 90, 107);
+}
+.dropdown{
+    margin-top: 10px;
+}
+h4{
+    border: 1px solid black;
+    padding: 2px 4px 5px 10px;
+    margin: 10px;
+}
+
+.card{
+    float: left;
+}
+h5{
+    text-align:center;
+    color: rgb(27, 12, 143);
+    background-color: rgb(255, 220, 220);
+    border-radius: 2px;
+    margin-left: 2px;
+}
